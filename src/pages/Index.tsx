@@ -10,10 +10,10 @@ const Index = () => {
   const [selectedProduct, setSelectedProduct] = useState<string | null>(null);
 
   const so2Products = [
-    { id: 'so2-500', name: '500 Голды', price: '99 ₽', originalPrice: '120 ₽', discount: '-17%' },
-    { id: 'so2-1000', name: '1000 Голды', price: '190 ₽', originalPrice: '240 ₽', discount: '-20%' },
-    { id: 'so2-2500', name: '2500 Голды', price: '450 ₽', originalPrice: '600 ₽', discount: '-25%' },
-    { id: 'so2-5000', name: '5000 Голды', price: '850 ₽', originalPrice: '1200 ₽', discount: '-29%' },
+    { id: 'so2-50', name: '50 Голды', price: '40 ₽', originalPrice: '50 ₽', discount: '-20%' },
+    { id: 'so2-100', name: '100 Голды', price: '85 ₽', originalPrice: '100 ₽', discount: '-15%' },
+    { id: 'so2-200', name: '200 Голды', price: '150 ₽', originalPrice: '180 ₽', discount: '-17%' },
+    { id: 'so2-500', name: '500 Голды', price: '400 ₽', originalPrice: '500 ₽', discount: '-20%' },
   ];
 
   const tgProducts = [
