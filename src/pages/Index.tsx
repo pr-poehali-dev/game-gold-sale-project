@@ -17,10 +17,10 @@ const Index = () => {
   ];
 
   const tgProducts = [
-    { id: 'tg-100', name: '100 Звезд', price: '125 ₽', originalPrice: '150 ₽', discount: '-17%' },
-    { id: 'tg-500', name: '500 Звезд', price: '599 ₽', originalPrice: '750 ₽', discount: '-20%' },
-    { id: 'tg-1000', name: '1000 Звезд', price: '1150 ₽', originalPrice: '1500 ₽', discount: '-23%' },
-    { id: 'tg-2500', name: '2500 Звезд', price: '2750 ₽', originalPrice: '3750 ₽', discount: '-27%' },
+    { id: 'tg-15', name: '15 Звезд', price: '30 ₽', originalPrice: '35 ₽', discount: '-14%' },
+    { id: 'tg-25', name: '25 Звезд', price: '45 ₽', originalPrice: '55 ₽', discount: '-18%' },
+    { id: 'tg-50', name: '50 Звезд', price: '90 ₽', originalPrice: '110 ₽', discount: '-18%' },
+    { id: 'tg-100', name: '100 Звезд', price: '150 ₽', originalPrice: '180 ₽', discount: '-17%' },
   ];
 
   return (
