@@ -189,7 +189,7 @@ const Index = () => {
                       <div className="w-8 h-8 bg-gamer-orange rounded-full flex items-center justify-center text-white font-bold text-sm">1</div>
                       <div>
                         <h4 className="font-semibold text-white mb-1">Укажите свой игровой ID</h4>
-                        <p>Найдите свой уникальный ID в настройках игры Standoff 2</p>
+                        <p>Найдите свой уникальный ID в настройках игры Standoff 2 и выставите скин с паттерном с кол-вом голды которым вы купили</p>
                       </div>
                     </div>
                     <div className="flex items-start space-x-3">
@@ -203,7 +203,7 @@ const Index = () => {
                       <div className="w-8 h-8 bg-gamer-orange rounded-full flex items-center justify-center text-white font-bold text-sm">3</div>
                       <div>
                         <h4 className="font-semibold text-white mb-1">Получите голду</h4>
-                        <p>Голда будет зачислена на ваш аккаунт в течение 5-15 минут</p>
+                        <p>Голда будет зачислена на ваш аккаунт в течение часа</p>
                       </div>
                     </div>
                   </div>
